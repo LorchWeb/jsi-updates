@@ -6,7 +6,7 @@ JSI ergänzt optionale JSON-LD-Snippets direkt an Joomla-Menüpunkten, einschlie
 
 ## Download
 
-[JSI 1.0.1 herunterladen](https://lorchweb.github.io/jsi-updates/plg_system_jsi-1.0.1.zip)
+[JSI 1.0.2 herunterladen](https://lorchweb.github.io/jsi-updates/plg_system_jsi-1.0.2.zip)
 
 Das ZIP über die Joomla-Erweiterungsverwaltung installieren und **System – JSI JSON-LD Snippet Injector** aktivieren. Jeder Frontend-Menüpunkt erhält einen Reiter **JSON-LD**. Das globale Feld befindet sich in den Plugin-Einstellungen. In die Felder reines JSON ohne umschließende Script-Tags eintragen.
 

@@ -1,5 +1,11 @@
 # JSI – Änderungen
 
+## 1.0.2 – 1. Oktober 2026
+
+- Versionsnummer im Plugin-Namen und in der Plugin-Beschreibung sichtbar.
+- Hinweis „Ein Service von Alpenrand-Digital.de“ mit verlinkter Webadresse.
+- Ausschließlich Darstellung und Release-Metadaten geändert; Snippet-Verarbeitung unverändert.
+
 ## 1.0.1 – 1. Oktober 2026
 
 - Joomla-Updatequelle über das eigenständige GitHub-Pages-Repository `LorchWeb/jsi-updates` registriert.
